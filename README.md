@@ -20,7 +20,7 @@ O NDI é bidirecional, de baixa latência e pode transmitir vídeo até 4K e mai
 
 ```
 
-![myimage-alt-tag](https://lacomparacion.com/wp-content/uploads/2021/08/%C2%BFQue-es-NDI-todo-lo-que-necesitas-saber.jpg)
+![myimage-alt-tag](https://lacomparacion.com/wp-content/uploads/2021/08/1627874143_%C2%BFQue-es-NDI-todo-lo-que-necesitas-saber-1080x675.jpg)
 
 ```
 A segunda coisa que você precisa saber é que o NDI é livre de empregos.
