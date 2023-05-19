@@ -18,3 +18,5 @@ O NDI é bidirecional, de baixa latência e pode transmitir vídeo até 4K e mai
 ```
 A segunda coisa que você precisa saber é que o NDI é livre de empregos. Embora certas soluções, como hardware com NDI integrado ou software e aplicativos específicos, possam ter um custo, a capacidade de acessar o NDI é totalmente gratuita. Você pode acessar imediatamente o NDI e seus recursos usando ferramentas que você já possui.
 ```
+
+- Vale muito apena e otimo recurso.
